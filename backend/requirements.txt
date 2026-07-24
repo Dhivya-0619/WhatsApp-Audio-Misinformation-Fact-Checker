@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+openai
+twilio
+tavily-python
+python-dotenv
+requests
+python-multipart
+pydub
+imageio-ffmpeg
+faster-whisper
